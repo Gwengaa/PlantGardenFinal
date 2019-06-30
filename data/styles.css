@@ -7,7 +7,11 @@
   text-align:center;
   line-height:normal;
 }
+._形状 {
+}
 ._图片 {
+}
+.button {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -77,20 +81,12 @@
 }
 .line {
 }
+.sticky_1 {
+  text-align:left;
+}
 ._图片1 {
   color:#000000;
 }
 .primary_button {
   color:#FFFFFF;
-}
-.html_button {
-  text-align:center;
-}
-.text_field {
-  color:#000000;
-  text-align:left;
-}
-.text_area {
-  color:#000000;
-  text-align:left;
 }
